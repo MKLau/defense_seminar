@@ -17,7 +17,7 @@
                        %\hypertarget{label}{link caption}
 \linespread{1.5}
 
-\title{}
+\title{Defense Seminar: The Evolution of Ecological Networks}
 \author{M.K. Lau}
 %\date{}                                           % Activate to display a given date or no date
 
@@ -33,7 +33,24 @@
 %on the second page
 
 
-%\section{}
+\section{Outline}
+
+\begin{itemize}
+\item Title slide
+\item Acknowledgements
+\item Talk summary
+\item Evolution and ecology (spatial and temporal scales)
+\item Genes to ecosystems and community genetics
+\item Co-evolution and diversity
+\item Interactions and networks
+\item Networks: relationship to co-occurrence analyses
+\item Networks: Araujo method
+\item Conclusion: Foundation species evolution can drive evolution by altering
+  interactions among species
+\item Conclusion: ecological networks aren't ecological networks
+  (they're individuals interacting and not interacting)
+\end{itemize}
+
 %\subsection{}
 
 %% %%Figure construction

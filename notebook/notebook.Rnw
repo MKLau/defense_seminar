@@ -35,9 +35,17 @@
 
 \section{Outline}
 
+``Either this is madness or it is Hell.''
+``It is neither, It is Knowledge.''
+-- From \textit{Flatland} by E.A. Abbott
+
+``Abandon all hope, ye who enter here.''
+-- Inscription over the Gates of Hell in Dante's Inferno
+-- And the old Pirates of the Carribean Ride at Disneyland
+
 \begin{itemize}
-\item Title slide
 \item Acknowledgements
+\item Title slide
 \item Talk summary
 \item Evolution and ecology (spatial and temporal scales)
 \item Genes to ecosystems and community genetics
@@ -49,6 +57,7 @@
   interactions among species
 \item Conclusion: ecological networks aren't ecological networks
   (they're individuals interacting and not interacting)
+\item Acknowledgements
 \end{itemize}
 
 %\subsection{}
